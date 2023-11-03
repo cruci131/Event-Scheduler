@@ -1,2 +1,2 @@
 # Event-Scheduler
-A system to track upcoming events and reserve them.
+A system to track events and reserve them using Windows Form Application and Oracle Database
